@@ -1,6 +1,5 @@
 function basicTeenager(age) {
-  (age) = 14
-  if(basicTeenager) = 13 >= 19
+  if (age) = 14
   return = "You are a teenager!"
 
 }
